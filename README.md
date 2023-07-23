@@ -1,0 +1,2 @@
+# Detikcom
+Assignment Frontend Designer
